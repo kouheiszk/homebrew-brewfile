@@ -26,6 +26,7 @@ cask "alfred"
 cask "appcleaner"
 cask "atom"
 cask "docker"
+cask "google-japanese-ime"
 cask "iterm2"
 cask "karabiner-elements"
 
