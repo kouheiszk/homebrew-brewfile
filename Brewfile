@@ -28,9 +28,7 @@ cask "atom"
 cask "docker"
 cask "iterm2"
 cask "karabiner-elements"
-cask "sequel-pro"
 
-mas "Evernote", id: 406056744
 mas "Keynote", id: 409183694
 mas "LINE", id: 539883307
 mas "Slack", id: 803453959
