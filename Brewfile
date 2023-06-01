@@ -28,7 +28,7 @@ cask "docker"
 cask "iterm2"
 cask "karabiner-elements"
 
-mas "Keynote", id: 409183694
-mas "LINE", id: 539883307
-mas "Slack", id: 803453959
-mas "The Unarchiver", id: 425424353
+# mas "Keynote", id: 409183694
+# mas "LINE", id: 539883307
+# mas "Slack", id: 803453959
+# mas "The Unarchiver", id: 425424353
