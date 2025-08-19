@@ -43,9 +43,3 @@ cask "ngrok"
 cask "sublime-text"
 cask "tableplus"
 cask "visual-studio-code"
-
-mas "Keynote", id: 409183694
-mas "LINE", id: 539883307
-mas "Slack", id: 803453959
-mas "The Unarchiver", id: 425424353
-mas "Xcode", id: 497799835
